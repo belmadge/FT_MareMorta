@@ -2,58 +2,80 @@
 
 **Studio:** FerroTech Game Studio  
 **Status:** Pre-production / concept draft  
-**Version:** 0.1  
+**Version:** 1.1  
 **Date:** 2026-11-14  
 **Target:** Windows PC / Steam  
 **Engine target:** Unreal Engine 5  
 **Genre:** First-person psychological survival horror  
 **Target playtime:** 2–3 hours  
-**Players:** Single-player
+**Players:** Single-player  
+**Setting:** Contemporary Maceió, Alagoas — fictionalized geography using recognizable real-world references
 
-> **Working tagline:** As águas guardam o que a cidade esqueceu.
+> **Tagline:** Maceió nunca esqueceu. O mar também não.
 
 ## 1. High concept
 
-A first-person psychological horror game set in a fictionalized version of Maceió, Alagoas. During an anomalous low tide, forgotten structures and fragments of the city's past emerge from the water. The protagonist returns to investigate a family disappearance and discovers that the phenomenon is connected to the city's coastal and lagoon landscapes.
+A first-person psychological horror game set in a fictionalized, contemporary version of Maceió, Alagoas. After receiving an impossible voice message apparently recorded by her missing mother, Helena returns to the city and investigates a family mystery connected to its coastal and lagoon history. An anomalous low tide exposes structures and routes that should not exist. As the water returns, Helena discovers that her family has been tied to a secret the city has tried to forget.
 
-The game uses real Maceió as cultural and visual inspiration, but its characters, supernatural events, locations, timeline and central mystery are fictional.
+The game uses recognizable Maceió geography and cultural textures as inspiration, while giving fictional names to playable locations. Characters, supernatural events, family history, disappearances and the central mystery are invented. Do not imply that fictional crimes, disasters or supernatural events happened in real Maceió.
 
-## 2. Creative pillars
+## 2. Approved creative direction
 
-1. **A distinctly Alagoan sense of place:** coastal light, reefs, lagoon landscapes, fishing culture, port heritage, local architecture, sounds and everyday details.
-2. **Environmental storytelling:** clues in spaces, objects, recordings and changes in the landscape.
-3. **Tide as progression:** water level changes access, visibility, sound and threat states.
-4. **Psychological tension over combat:** avoidance, observation, uncertainty and carefully paced encounters.
-5. **Compact premium experience:** a focused 2–3 hour campaign with a small number of highly authored spaces.
+The following decisions are locked for the current concept:
 
-## 3. Setting and cultural references
+- **Time period:** present-day Maceió, with supernatural events.
+- **Geography:** recognizable real-world inspiration, but fictional names for in-game locations.
+- **Narrative core:** a family mystery connected to the city's history.
+- **Visual direction:** realistic and cinematic.
+- **Player perspective:** first person.
+- **Target length:** no more than three hours.
+- **Initial platform:** Windows PC / Steam.
 
-The fictional setting draws from several real Maceió references:
+The goal is for local players to recognize the atmosphere and geography while international players can understand and fear the story without prior knowledge of Maceió.
+
+## 3. Creative pillars
+
+1. **A distinctly Alagoan sense of place:** coastal light, reef formations, lagoon landscapes, fishing culture, port heritage, architecture, sounds and everyday details.
+2. **Family mystery anchored in place:** personal memories and family objects reveal fragments of the city's fictional hidden past.
+3. **Environmental storytelling:** clues in spaces, objects, recordings and changes in the landscape.
+4. **Tide as progression:** water level changes access, visibility, sound and threat states.
+5. **Psychological tension over combat:** avoidance, observation, uncertainty and carefully paced encounters.
+6. **Compact premium experience:** a focused 2–3 hour campaign with a small number of highly authored spaces.
+
+## 4. Setting and cultural references
+
+The fictional city layout draws from real Maceió references:
 
 - **Jaraguá:** historic port district, warehouses/trapiches and preserved architecture.
 - **Lagoa Mundaú and its channels:** lagoon routes, fishing boats, mangroves and communities whose lives are connected to the water.
-- **Pontal da Barra:** fishing and traditional craft references, including local ways of life and landscape.
+- **Pontal da Barra:** fishing and traditional craft references, local ways of life and lagoon landscapes.
 - **Pajuçara and the reef coastline:** natural pools, reefs and the contrast between inviting shallow water and the open sea.
-- **Centro and Bebedouro:** historic urban textures and the city's relationship with lagoon geography.
+- **Centro and the lagoon-facing urban fabric:** historic urban textures and the city's relationship with the water.
 
-These references are not a literal map. The game will combine and fictionalize them into a coherent playable geography. Avoid presenting invented disasters, disappearances or supernatural claims as real local history. Treat residents and local culture respectfully; consult local people and sources during research.
+These are visual and geographic references, not a literal map. The playable geography combines them into a compact fictional district. In-game names such as **Cais das Pedras**, **Vila do Sal**, **Pousada Brisa Baixa** and **Baixio** are fictional. Real neighborhoods and landmarks may appear as distant establishing references only when useful and accurately represented.
 
-## 4. Logline and narrative premise
+Treat local residents and culture respectfully. Research architecture, work practices, landscape, sound and everyday life. Consult local people and sources during production. Do not turn real communities, religious practices or cultural traditions into horror stereotypes.
 
-After receiving an impossible voice message apparently recorded by her missing mother, Helena returns to a fictional coastal district of Maceió. An extreme low tide exposes a route to structures absent from every map. As the water returns, Helena uncovers a hidden family history and a presence that seems to remember the city differently from the living.
+## 5. Logline and narrative premise
+
+In present-day Maceió, Helena receives a voice message that appears to have been recorded by her mother, Lúcia, who disappeared years earlier. The message directs her to a fictional old waterfront property in a district inspired by Jaraguá. An unusual low tide exposes a route to a forgotten settlement. As Helena follows clues through a guesthouse, a fishing quay and lagoon-side paths, she uncovers a family secret tied to a fictional event in the city's past.
 
 **Narrative rule:** the supernatural should remain partly ambiguous. Players should understand the emotional truth and immediate stakes without receiving a complete scientific explanation.
 
-## 5. Main characters — provisional
+### Family mystery
 
-- **Helena:** protagonist; returns to investigate the message and her mother's disappearance.
-- **Antônio:** local fisherman and reluctant source of information.
+The central mystery is not that Maceió's real history contains a supernatural secret. It is that Helena's fictional family participated in concealing an event in the game's invented history. Family photographs, audio tapes, letters and records gradually contradict one another. The player reconstructs what happened and decides what to do with the truth.
+
+## 6. Main characters — provisional
+
+- **Helena:** protagonist; returns to Maceió to investigate the message and her mother's disappearance.
+- **Antônio:** local fisherman and reluctant source of information. Write him as a complete person with motives and relationships, not as an exposition device.
 - **Lúcia:** Helena's mother; present through recordings, objects and memories.
 - **The Drowned (working name):** an entity glimpsed near exposed structures. Its design and origin remain deliberately incomplete.
 
-Names, ages, relationships and final character biographies require narrative review.
+Names, ages, family relationships and final biographies require narrative review.
 
-## 6. Gameplay
+## 7. Gameplay
 
 ### Core loop
 
@@ -79,7 +101,7 @@ Use authored gameplay states rather than simulating a full ocean:
 - **High:** low areas are inaccessible and threat behavior changes.
 - **Falling:** transition state used for selected story beats.
 
-A Tide Manager broadcasts state changes to level access, environmental presentation, audio and the horror director. Transitions should be scripted and predictable enough for level design and QA.
+A Tide Manager broadcasts state changes to level access, environmental presentation, audio and the horror director. Transitions should be scripted and predictable enough for level design and QA. The tide is a supernatural narrative device, not a claim about actual local tides or coastal conditions.
 
 ### Investigation and puzzles
 
@@ -89,30 +111,71 @@ Target 5–7 main puzzles, based on audio recordings, photographs, documents, si
 
 Build tension through environmental anomalies, indirect manifestations, brief sightings and a small number of authored chase sequences. Avoid constant jumpscares.
 
-## 7. Level plan — fictional composite map
+## 8. Definitive proposed map — fictional composite geography
 
-1. **Arrival / Vila das Conchas:** compact street, small square and first safe interior.
-2. **Pousada Mar Azul:** central hub with reception, rooms, kitchen and service spaces.
-3. **Porto Velho:** docks, boats and storage sheds; first direct threat.
-4. **Exposed settlement:** fictional structures revealed by the low tide; major exploration sequence.
-5. **The Below:** compact final underground / submerged space.
+The campaign uses five compact playable zones arranged as a connected fictional coastal district. This is the definitive **production proposal** for the current scope, not a claim that these fictional places exist in real Maceió.
 
-The level is interconnected but not open-world. Reuse modular architecture and keep the number of unique interior kits limited.
+1. **Vila do Sal — arrival and neighborhood**
+   - Visual inspiration: residential streets and everyday textures from the lagoon-facing and historic urban fabric.
+   - Play space: one short street, a small square, a closed shopfront and one safe interior.
+   - Gameplay: arrival, first clues, introduction to the recorder and local atmosphere.
+   - Target: 10–20 minutes.
 
-## 8. Campaign structure
+2. **Pousada Brisa Baixa — central hub**
+   - Visual inspiration: older coastal guesthouses and historic buildings, with a fictional layout.
+   - Play space: reception, two guest rooms, kitchen, service corridor and courtyard.
+   - Gameplay: main investigation hub; family photographs, letters, first puzzle and route unlocks.
+   - Target: 25–35 minutes.
+
+3. **Cais das Pedras — port and fishing quay**
+   - Visual inspiration: Jaraguá's port heritage and working waterfront, without copying a specific protected building.
+   - Play space: short quay, boat shed, storage room and mooring area.
+   - Gameplay: first direct entity encounter, sound-based navigation and a tide-gated route.
+   - Target: 25–35 minutes.
+
+4. **Baixio — exposed settlement**
+   - Visual inspiration: reef coastline, shallow-water formations and lagoon/sea edge environments.
+   - Play space: a compact route through exposed foundations, fictional house remains and a submerged street.
+   - Gameplay: main tide-state sequence, environmental puzzles and major family revelation.
+   - Target: 35–45 minutes.
+
+5. **Abaixo — final chamber**
+   - Visual inspiration: invented infrastructure beneath the exposed settlement; not a real archaeological site.
+   - Play space: a small sequence of flooded passages and one central chamber.
+   - Gameplay: final revelation, choice and three short ending variations using shared assets.
+   - Target: 20–30 minutes.
+
+### Connectivity and pacing
+
+**Vila do Sal → Pousada Brisa Baixa ↔ Cais das Pedras → Baixio → Abaixo**
+
+The guesthouse is the hub. A shortcut between the guesthouse and quay opens after the first investigation. Baixio is accessible only during the authored low-tide window. The final area is linear to protect pacing and keep the project achievable.
+
+### Map production constraints
+
+- No open world.
+- Five zones maximum for the first release.
+- Reuse modular building kits, props and materials.
+- Use a few distant skyline / coastline views to communicate Maceió's coastal identity without building the whole city.
+- Avoid exact reproduction of private homes or sensitive sites without permission.
+- Confirm the final geographic references with local photo research and on-site observation where feasible.
+
+See [MAPA.md](MAPA.md) for the zone-by-zone map brief and level-design checklist.
+
+## 9. Campaign structure
 
 | Section | Target time | Purpose |
 |---|---:|---|
-| Arrival / prologue | 10 min | Establish protagonist, place and message |
-| Act I | 30 min | Learn the hub and investigate the inn |
-| Act II | 45 min | Reach the exposed settlement and solve core puzzles |
-| Act III | 55 min | Escalate threat and reveal family connection |
-| Finale | 30 min | Final sequence and ending choice |
+| Arrival / prologue | 10 min | Establish Helena, present-day Maceió and the message |
+| Act I | 30 min | Explore Vila do Sal and investigate the guesthouse |
+| Act II | 45 min | Reach the quay and solve the first major clues |
+| Act III | 55 min | Explore Baixio and reveal the family connection |
+| Finale | 30 min | Enter Abaixo and choose an ending |
 | **Total** | **170 min** | Target runtime; validate through playtests |
 
 Target 2–3 endings using shared spaces and assets rather than separate campaigns.
 
-## 9. Technical direction — provisional
+## 10. Technical direction — provisional
 
 - Unreal Engine 5, Windows target.
 - C++ for reusable core systems; Blueprints for authored interactions, triggers and iteration.
@@ -127,13 +190,13 @@ Target 2–3 endings using shared spaces and assets rather than separate campaig
 
 Do not add an online backend, multiplayer, procedural world generation or complex combat to the first release.
 
-## 10. Initial content boundaries
+## 11. Initial content boundaries
 
 **In scope:** one protagonist, one primary entity, five compact zones, 5–7 puzzles, 2–3 endings, Portuguese (Brazil) and English text.
 
 **Out of scope for first release:** open world, multiplayer, crafting, extensive combat, branching companion systems, large crowds, fully simulated tides and console certification.
 
-## 11. Production milestones
+## 12. Production milestones
 
 1. **Pre-production:** reference research, story outline, greybox, technical spike.
 2. **Prototype:** first-person movement, interaction, flashlight, one tide transition.
@@ -144,7 +207,7 @@ Do not add an online backend, multiplayer, procedural world generation or comple
 
 A 9–12 month schedule is a planning hypothesis only. Re-estimate after the team size, available hours and hardware are confirmed.
 
-## 12. Key risks and mitigations
+## 13. Key risks and mitigations
 
 - **Scope growth:** lock the five-zone limit and validate every new feature against the 3-hour target.
 - **Inexperienced game team:** build a vertical slice before full production.
@@ -152,8 +215,9 @@ A 9–12 month schedule is a planning hypothesis only. Re-estimate after the tea
 - **Cultural inaccuracies:** research local history and consult Maceió / Alagoas residents.
 - **Asset licensing:** track source, license and attribution for every external asset.
 - **Narrative clarity:** test comprehension with players unfamiliar with Maceió.
+- **Misrepresentation of real history:** keep all disappearances, supernatural events and family secrets clearly fictional.
 
-## 13. Research references
+## 14. Research references
 
 Use these as starting points for cultural and historical research, not as sources for the fictional supernatural plot:
 
@@ -162,11 +226,11 @@ Use these as starting points for cultural and historical research, not as source
 - [UFAL — A territorialidade do patrimônio cultural do bairro do Jaraguá](https://www.repositorio.ufal.br/handle/riufal/2925)
 - [IPHAN — Relatório de mapeamento do patrimônio imaterial em Alagoas](https://portal.iphan.gov.br/uploads/ckfinder/arquivos/Relatorio_final_mapeamento_alagoas_PNPI%281%29.pdf)
 
-## 14. Open decisions
+## 15. Open decisions
 
-- Confirm protagonist's background and family relationship.
-- Choose the exact fictional geography and how it combines real references.
-- Decide whether the story occurs in present-day Maceió or an alternate period.
+- Confirm protagonist's detailed background and exact family relationship.
+- Validate the five-zone greybox and travel times.
+- Choose exact fictional building layouts and visual references.
 - Confirm team size, weekly availability and hardware budget.
 - Define minimum PC specifications after the vertical slice.
 - Validate the title and tagline before public marketing.
